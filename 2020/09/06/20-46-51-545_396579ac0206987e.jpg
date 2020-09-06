@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Park &amp; Cube |   Few of Meindl favourite things: Bentley Collection</title>
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="stylesheet" type="text/css" media="all" href="https://parkandcube.com/wp-content/themes/pnc5/style.css" />
+  <link rel="pingback" href="https://parkandcube.com/xmlrpc.php" />
+  <link rel="stylesheet" href="https://parkandcube.com/wp-content/themes/pnc5/css/menu/core.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="https://parkandcube.com/wp-content/themes/pnc5/css/menu/effects/fade.css" type="text/css"
+    media="screen">
+  <link rel="stylesheet" href="https://parkandcube.com/wp-content/themes/pnc5/css/fonts.css" type="text/css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+  <script src="https://parkandcube.com/wp-content/themes/pnc5/js/menu.min.js" type="text/javascript" charset="utf-8"></script>
+
+  <script>
+    $(document).ready(function() {
+      const closeIcon = $('.card--close-icon');
+      const overlay = $('.overlay');
+
+      if (localStorage.getItem('popState') != 'shown') {
+        overlay.css('display', 'flex').fadeIn();
+      }
+
+      closeIcon.on('click', () => {
+        overlay.fadeOut();
+        localStorage.setItem('popState','shown');
+      });
+
+      overlay.on('click', function (e) {
+        const isOverlay = Object.is(e.target, overlay[0]);
+        if (isOverlay) {
+          $(this).fadeOut();
+          localStorage.setItem('popState','shown');
+        };
+      });
+    });
+  </script>
+  <script type="text/javascript">
+    $(function () {
+      var bar = $('#headerSlideContainer');
+      var top = bar.css('top');
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 50) {
+          bar.stop().animate({
+            'top': '0px'
+          }, 200);
+        } else {
+          bar.stop().animate({
+            'top': top
+          }, 200);
+        }
+      });
+    });
+  </script>
+
+  <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Park &amp; Cube &raquo; Feed" href="https://parkandcube.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Park &amp; Cube &raquo; Comments Feed" href="https://parkandcube.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Park &amp; Cube &raquo; Few of Meindl favourite things: Bentley Collection Comments Feed" href="https://parkandcube.com/bentley-meindl-factory/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/parkandcube.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://parkandcube.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-slider-base-css'  href='https://parkandcube.com/wp-content/plugins/slider-pro/css/slider/advanced-slider-base.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-skin-text-thumbnail-pointer-css'  href='https://parkandcube.com/wp-content/plugins/slider-pro/skins/slider/text-thumbnail-pointer/text-thumbnail-pointer.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-4-custom-css'  href='https://parkandcube.com/wp-content/plugins/slider-pro/custom/slider-pro-4/slider-pro-4-custom-css.css?ver=3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-5-custom-css'  href='https://parkandcube.com/wp-content/plugins/slider-pro/custom/slider-pro-5/slider-pro-5-custom-css.css?ver=3.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://parkandcube.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://parkandcube.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://parkandcube.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://parkandcube.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://parkandcube.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Rebirth: St. Regis' href='https://parkandcube.com/stregismaldives/' />
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="https://parkandcube.com/bentley-meindl-factory/" />
+<link rel='shortlink' href='https://parkandcube.com/?p=28498' />
+<link rel="alternate" type="application/json+oembed" href="https://parkandcube.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fparkandcube.com%2Fbentley-meindl-factory%2F" />
+<link rel="icon" href="https://parkandcube.com/wp-content/uploads/2020/04/cropped-cubefav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://parkandcube.com/wp-content/uploads/2020/04/cropped-cubefav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://parkandcube.com/wp-content/uploads/2020/04/cropped-cubefav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://parkandcube.com/wp-content/uploads/2020/04/cropped-cubefav-270x270.png" />
+	<link rel='archives' title='November 2018' href='https://parkandcube.com/2018/11/' />
+	<link rel='archives' title='October 2018' href='https://parkandcube.com/2018/10/' />
+	<link rel='archives' title='June 2018' href='https://parkandcube.com/2018/06/' />
+	<link rel='archives' title='February 2018' href='https://parkandcube.com/2018/02/' />
+	<link rel='archives' title='December 2017' href='https://parkandcube.com/2017/12/' />
+	<link rel='archives' title='November 2017' href='https://parkandcube.com/2017/11/' />
+	<link rel='archives' title='October 2017' href='https://parkandcube.com/2017/10/' />
+	<link rel='archives' title='September 2017' href='https://parkandcube.com/2017/09/' />
+	<link rel='archives' title='July 2017' href='https://parkandcube.com/2017/07/' />
+	<link rel='archives' title='April 2017' href='https://parkandcube.com/2017/04/' />
+	<link rel='archives' title='March 2017' href='https://parkandcube.com/2017/03/' />
+	<link rel='archives' title='February 2017' href='https://parkandcube.com/2017/02/' />
+	<link rel='archives' title='January 2017' href='https://parkandcube.com/2017/01/' />
+	<link rel='archives' title='December 2016' href='https://parkandcube.com/2016/12/' />
+	<link rel='archives' title='November 2016' href='https://parkandcube.com/2016/11/' />
+	<link rel='archives' title='October 2016' href='https://parkandcube.com/2016/10/' />
+	<link rel='archives' title='September 2016' href='https://parkandcube.com/2016/09/' />
+	<link rel='archives' title='August 2016' href='https://parkandcube.com/2016/08/' />
+	<link rel='archives' title='July 2016' href='https://parkandcube.com/2016/07/' />
+	<link rel='archives' title='June 2016' href='https://parkandcube.com/2016/06/' />
+	<link rel='archives' title='May 2016' href='https://parkandcube.com/2016/05/' />
+	<link rel='archives' title='April 2016' href='https://parkandcube.com/2016/04/' />
+	<link rel='archives' title='March 2016' href='https://parkandcube.com/2016/03/' />
+	<link rel='archives' title='February 2016' href='https://parkandcube.com/2016/02/' />
+	<link rel='archives' title='January 2016' href='https://parkandcube.com/2016/01/' />
+	<link rel='archives' title='December 2015' href='https://parkandcube.com/2015/12/' />
+	<link rel='archives' title='November 2015' href='https://parkandcube.com/2015/11/' />
+	<link rel='archives' title='October 2015' href='https://parkandcube.com/2015/10/' />
+	<link rel='archives' title='September 2015' href='https://parkandcube.com/2015/09/' />
+	<link rel='archives' title='August 2015' href='https://parkandcube.com/2015/08/' />
+	<link rel='archives' title='July 2015' href='https://parkandcube.com/2015/07/' />
+	<link rel='archives' title='June 2015' href='https://parkandcube.com/2015/06/' />
+	<link rel='archives' title='May 2015' href='https://parkandcube.com/2015/05/' />
+	<link rel='archives' title='April 2015' href='https://parkandcube.com/2015/04/' />
+	<link rel='archives' title='March 2015' href='https://parkandcube.com/2015/03/' />
+	<link rel='archives' title='February 2015' href='https://parkandcube.com/2015/02/' />
+	<link rel='archives' title='January 2015' href='https://parkandcube.com/2015/01/' />
+	<link rel='archives' title='December 2014' href='https://parkandcube.com/2014/12/' />
+	<link rel='archives' title='November 2014' href='https://parkandcube.com/2014/11/' />
+	<link rel='archives' title='October 2014' href='https://parkandcube.com/2014/10/' />
+	<link rel='archives' title='September 2014' href='https://parkandcube.com/2014/09/' />
+	<link rel='archives' title='August 2014' href='https://parkandcube.com/2014/08/' />
+	<link rel='archives' title='July 2014' href='https://parkandcube.com/2014/07/' />
+	<link rel='archives' title='June 2014' href='https://parkandcube.com/2014/06/' />
+	<link rel='archives' title='May 2014' href='https://parkandcube.com/2014/05/' />
+	<link rel='archives' title='April 2014' href='https://parkandcube.com/2014/04/' />
+	<link rel='archives' title='March 2014' href='https://parkandcube.com/2014/03/' />
+	<link rel='archives' title='February 2014' href='https://parkandcube.com/2014/02/' />
+	<link rel='archives' title='January 2014' href='https://parkandcube.com/2014/01/' />
+	<link rel='archives' title='December 2013' href='https://parkandcube.com/2013/12/' />
+	<link rel='archives' title='November 2013' href='https://parkandcube.com/2013/11/' />
+	<link rel='archives' title='October 2013' href='https://parkandcube.com/2013/10/' />
+	<link rel='archives' title='September 2013' href='https://parkandcube.com/2013/09/' />
+	<link rel='archives' title='August 2013' href='https://parkandcube.com/2013/08/' />
+	<link rel='archives' title='July 2013' href='https://parkandcube.com/2013/07/' />
+	<link rel='archives' title='June 2013' href='https://parkandcube.com/2013/06/' />
+	<link rel='archives' title='May 2013' href='https://parkandcube.com/2013/05/' />
+	<link rel='archives' title='April 2013' href='https://parkandcube.com/2013/04/' />
+	<link rel='archives' title='March 2013' href='https://parkandcube.com/2013/03/' />
+	<link rel='archives' title='February 2013' href='https://parkandcube.com/2013/02/' />
+	<link rel='archives' title='January 2013' href='https://parkandcube.com/2013/01/' />
+	<link rel='archives' title='December 2012' href='https://parkandcube.com/2012/12/' />
+	<link rel='archives' title='November 2012' href='https://parkandcube.com/2012/11/' />
+	<link rel='archives' title='October 2012' href='https://parkandcube.com/2012/10/' />
+	<link rel='archives' title='September 2012' href='https://parkandcube.com/2012/09/' />
+	<link rel='archives' title='August 2012' href='https://parkandcube.com/2012/08/' />
+	<link rel='archives' title='July 2012' href='https://parkandcube.com/2012/07/' />
+	<link rel='archives' title='June 2012' href='https://parkandcube.com/2012/06/' />
+	<link rel='archives' title='May 2012' href='https://parkandcube.com/2012/05/' />
+	<link rel='archives' title='April 2012' href='https://parkandcube.com/2012/04/' />
+	<link rel='archives' title='March 2012' href='https://parkandcube.com/2012/03/' />
+	<link rel='archives' title='February 2012' href='https://parkandcube.com/2012/02/' />
+	<link rel='archives' title='January 2012' href='https://parkandcube.com/2012/01/' />
+	<link rel='archives' title='December 2011' href='https://parkandcube.com/2011/12/' />
+	<link rel='archives' title='November 2011' href='https://parkandcube.com/2011/11/' />
+	<link rel='archives' title='October 2011' href='https://parkandcube.com/2011/10/' />
+	<link rel='archives' title='September 2011' href='https://parkandcube.com/2011/09/' />
+	<link rel='archives' title='August 2011' href='https://parkandcube.com/2011/08/' />
+	<link rel='archives' title='July 2011' href='https://parkandcube.com/2011/07/' />
+	<link rel='archives' title='June 2011' href='https://parkandcube.com/2011/06/' />
+	<link rel='archives' title='May 2011' href='https://parkandcube.com/2011/05/' />
+	<link rel='archives' title='April 2011' href='https://parkandcube.com/2011/04/' />
+	<link rel='archives' title='March 2011' href='https://parkandcube.com/2011/03/' />
+	<link rel='archives' title='February 2011' href='https://parkandcube.com/2011/02/' />
+	<link rel='archives' title='January 2011' href='https://parkandcube.com/2011/01/' />
+	<link rel='archives' title='December 2010' href='https://parkandcube.com/2010/12/' />
+	<link rel='archives' title='November 2010' href='https://parkandcube.com/2010/11/' />
+	<link rel='archives' title='October 2010' href='https://parkandcube.com/2010/10/' />
+	<link rel='archives' title='September 2010' href='https://parkandcube.com/2010/09/' />
+	<link rel='archives' title='August 2010' href='https://parkandcube.com/2010/08/' />
+	<link rel='archives' title='July 2010' href='https://parkandcube.com/2010/07/' />
+	<link rel='archives' title='June 2010' href='https://parkandcube.com/2010/06/' />
+	<link rel='archives' title='May 2010' href='https://parkandcube.com/2010/05/' />
+	<link rel='archives' title='April 2010' href='https://parkandcube.com/2010/04/' />
+	<link rel='archives' title='March 2010' href='https://parkandcube.com/2010/03/' />
+	<link rel='archives' title='February 2010' href='https://parkandcube.com/2010/02/' />
+	<link rel='archives' title='January 2010' href='https://parkandcube.com/2010/01/' />
+	<link rel='archives' title='December 2009' href='https://parkandcube.com/2009/12/' />
+	<link rel='archives' title='November 2009' href='https://parkandcube.com/2009/11/' />
+	<link rel='archives' title='October 2009' href='https://parkandcube.com/2009/10/' />
+	<link rel='archives' title='September 2009' href='https://parkandcube.com/2009/09/' />
+	<link rel='archives' title='August 2009' href='https://parkandcube.com/2009/08/' />
+	<link rel='archives' title='July 2009' href='https://parkandcube.com/2009/07/' />
+	<link rel='archives' title='June 2009' href='https://parkandcube.com/2009/06/' />
+	<link rel='archives' title='May 2009' href='https://parkandcube.com/2009/05/' />
+	<link rel='archives' title='April 2009' href='https://parkandcube.com/2009/04/' />
+	<link rel='archives' title='March 2009' href='https://parkandcube.com/2009/03/' />
+	<link rel='archives' title='February 2009' href='https://parkandcube.com/2009/02/' />
+	<link rel='archives' title='January 2009' href='https://parkandcube.com/2009/01/' />
+	<link rel='archives' title='December 2008' href='https://parkandcube.com/2008/12/' />
+	<link rel='archives' title='November 2008' href='https://parkandcube.com/2008/11/' />
+
+  <script type="text/javascript" src="https://fast.fonts.com/jsapi/2a32b8cc-c5b1-4789-b2b0-7782cb870cad.js"></script>
+
+</head>
+
+
+<body>
+
+
+<div class="overlay">
+  <div class="overlay--card">
+    <div class="card--close">
+      <span class="card--close-icon"><img src="https://parkandcube.com/wp-content/themes/pnc5/css/CLOSE.svg"></span>
+    </div>
+    <div class="card--logo">
+      <a href="http://cubiclejournal.com"><img src="https://cubiclejournal.com/wp-content/themes/cubicle/images/logos/cubicle.svg" alt="cubicle-logo"></a>
+    </div>
+    <div class="card--title">
+      I've moved on...
+    </div>
+    <div class="card--para">
+      <span>...to a different domain. Why, what were you thinking?</span> The truth is, I just woke up one day and decided it's time for a change—a metamorphosis, if you will; or, in layman's terms, <span>if Britney can shave her head, then maybe so can I?</span> Nevertheless, it's been a rather handsome 10 years of talking to you, and thank you for putting up with all my moodswings and terrible dad jokes. Fear not! The hormonal imbalance and jokes are more terrible on CUBICLE, see you there.
+    </div>
+    <div class="card--cover">
+      <img src="https://parkandcube.com/wp-content/uploads/2020/04/CUBICLE_Issue03-Lenouveau-bourgeois_30.jpg" alt="">
+    </div>
+    <div class="card--link">
+      <a target="_blank" href="https://cubiclejournal.com">www.cubiclejournal.com</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+  
+
+
+
+
+
+
+  <div id="headerSlideContainer">
+
+
+
+    <div id="headerSlideContent">
+
+
+
+
+
+
+
+      <ul class="menu sblack fade" id="menu">
+
+
+
+
+
+
+
+        <li><a style="padding-left: 0;" href="http://parkandcube.com/blog/"><img
+              src="https://parkandcube.com/wp-content/themes/pnc5/images/home.png" /></a></li>
+
+
+
+        <li><a href="#"><img src="https://parkandcube.com/wp-content/themes/pnc5/images/categories.jpg"></a>
+
+
+
+          <ul>	<li class="cat-item cat-item-809"><a href="https://parkandcube.com/category/a-closer-look/">A Closer Look</a>
+</li>
+	<li class="cat-item cat-item-567"><a href="https://parkandcube.com/category/beauty/">Beauty</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://parkandcube.com/category/diy/" title="The sound of the sewing machine whirs while the incandescent light swings back and forth">DIY</a>
+</li>
+	<li class="cat-item cat-item-278"><a href="https://parkandcube.com/category/fashion-week/">Fashion Week</a>
+</li>
+	<li class="cat-item cat-item-336"><a href="https://parkandcube.com/category/press-day/">Fresh Produce</a>
+</li>
+	<li class="cat-item cat-item-433"><a href="https://parkandcube.com/category/gadgets/">Gadgets</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://parkandcube.com/category/inspiration/" title="From fashion magazines to patterns on mouldy walls. ">Inspiration</a>
+</li>
+	<li class="cat-item cat-item-517"><a href="https://parkandcube.com/category/lifestyle-food/">Lifestyle &amp; Food</a>
+</li>
+	<li class="cat-item cat-item-273"><a href="https://parkandcube.com/category/london/">London</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://parkandcube.com/category/style/" title="Those days I do feel like scrubbing my face and letting the bats out of the house. ">Style</a>
+</li>
+	<li class="cat-item cat-item-750"><a href="https://parkandcube.com/category/things-of-the-month/">Things of the Month</a>
+</li>
+	<li class="cat-item cat-item-552"><a href="https://parkandcube.com/category/travel/">Travel</a>
+</li>
+	<li class="cat-item cat-item-1312"><a href="https://parkandcube.com/category/video/">Video</a>
+</li>
+	<li class="cat-item cat-item-1511"><a href="https://parkandcube.com/category/work/">Work</a>
+</li>
+</ul>
+
+
+
+        </li>
+
+
+
+        <li><a href="#"><img src="https://parkandcube.com/wp-content/themes/pnc5/images/archives.jpg"></a>
+
+
+
+          <ul>	<li><a href='https://parkandcube.com/2018/11/'>November 2018</a></li>
+	<li><a href='https://parkandcube.com/2018/10/'>October 2018</a></li>
+	<li><a href='https://parkandcube.com/2018/06/'>June 2018</a></li>
+	<li><a href='https://parkandcube.com/2018/02/'>February 2018</a></li>
+	<li><a href='https://parkandcube.com/2017/12/'>December 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/11/'>November 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/10/'>October 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/09/'>September 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/07/'>July 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/04/'>April 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/03/'>March 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/02/'>February 2017</a></li>
+	<li><a href='https://parkandcube.com/2017/01/'>January 2017</a></li>
+	<li><a href='https://parkandcube.com/2016/12/'>December 2016</a></li>
+	<li><a href='https://parkandcube.com/2016/11/'>November 2016</a></li>
+
+
+
+            <li class="more"><a href="http://parkandcube.com/site-archives/">see entire archive &raquo;</a>
+            </li>
+          </ul>
+
+
+
+        </li>
+
+
+
+        <li class="floatr"><a href="https://parkandcube.com/bentley-meindl-factory/#comments" style="padding-right: 0;"><img
+              src="https://parkandcube.com/wp-content/themes/pnc5/images/leavecomment.jpg"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <li class="floatr">
+
+
+
+          <a href="#" style="background: none; padding: 5px 0px 5px 0;">
+
+
+
+
+
+
+
+
+          </a>
+
+
+
+        </li>
+
+
+
+
+
+
+
+
+
+
+
+        <li class="floatr">
+
+
+
+          <a href="#" style="background: none; padding: 5px 0px;"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+      </ul>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="headerSlideContentfooter"></div>
+
+
+
+  </div>
+
+
+
+
+
+  
+  <div id="header_menu">
+    <div id="headerSlideContent">
+      <div class="clearfix">
+        <ul class="menu sblack fade" id="menu">
+          <li><a style="padding-left: 0px;" href="http://parkandcube.com"><img
+                src="https://parkandcube.com/wp-content/themes/pnc5/images/home.png" /></a></li>
+          <li><a href="#"><img src="https://parkandcube.com/wp-content/themes/pnc5/images/categories.jpg"></a>
+            <ul>	<li class="cat-item cat-item-809"><a href="https://parkandcube.com/category/a-closer-look/">A Closer Look</a>
+</li>
+	<li class="cat-item cat-item-567"><a href="https://parkandcube.com/category/beauty/">Beauty</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://parkandcube.com/category/diy/" title="The sound of the sewing machine whirs while the incandescent light swings back and forth">DIY</a>
+</li>
+	<li class="cat-item cat-item-278"><a href="https://parkandcube.com/category/fashion-week/">Fashion Week</a>
+</li>
+	<li class="cat-item cat-item-336"><a href="https://parkandcube.com/category/press-day/">Fresh Produce</a>
+</li>
+	<li class="cat-item cat-item-433"><a href="https://parkandcube.com/category/gadgets/">Gadgets</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://parkandcube.com/category/inspiration/" title="From fashion magazines to patterns on mouldy walls. ">Inspiration</a>
+</li>
+	<li class="cat-item cat-item-517"><a href="https://parkandcube.com/category/lifestyle-food/">Lifestyle &amp; Food</a>
+</li>
+	<li class="cat-item cat-item-273"><a href="https://parkandcube.com/category/london/">London</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://parkandcube.com/category/style/" title="Those days I do feel like scrubbing my face and letting the bats out of the house. ">Style</a>
+</li>
+	<li class="cat-item cat-item-750"><a href="https://parkandcube.com/category/things-of-the-month/">Things of the Month</a>
+</li>
+	<li class="cat-item cat-item-552"><a href="https://parkandcube.com/category/travel/">Travel</a>
+</li>
+	<li class="cat-item cat-item-1312"><a href="https://parkandcube.com/category/video/">Video</a>
+</li>
+	<li class="cat-item cat-item-1511"><a href="https://parkandcube.com/category/work/">Work</a>
+</li>
+</ul>
+          </li>
+          <li>
+            <a href="http://parkandcube.com/about/">
+              <img src="https://parkandcube.com/wp-content/themes/pnc5/images/aboutpc.jpg">
+            </a>
+          </li>
+          <li>
+            <form role="search" method="get" id="searchform" action="https://parkandcube.com/">
+              <input type="text" value="search" onClick="if(this.value=='search'){this.value=''}"
+                onBlur="if(this.value==''){this.value='search'}" name="s" id="s" />
+            </form>
+          </li>
+          <li class="floatr">
+            <a style="background: none; padding: 5px 7px;"
+              href="http://www.bloglovin.com/en/blog/362688/park--cube/follow" target="_blank"><img
+                src="https://parkandcube.com/wp-content/themes/pnc5/images/header_bloglovin.jpg" /></a>
+            <ul>
+              <li>Bloglovin'</li>
+            </ul>
+          </li>
+          <li class="floatr">
+            <a style="background: none; padding: 5px 7px;" href="http://www.parkandcube.com/feed/" target="_blank"><img
+                src="https://parkandcube.com/wp-content/themes/pnc5/images/header_rss.jpg" /></a>
+            <ul>
+              <li>RSS</li>
+            </ul>
+          </li>
+          <li class="floatr">
+            <a style="background: none; padding: 5px 7px;" href="https://www.facebook.com/parkandcube"
+              target="_blank"><img src="https://parkandcube.com/wp-content/themes/pnc5/images/header_facebook.jpg" /></a>
+            <ul>
+              <li>Facebook</li>
+            </ul>
+          </li>
+          <li class="floatr">
+            <a style="background: none; padding: 5px 7px;" href="https://twitter.com/#!/parkncube" target="_blank"><img
+                src="https://parkandcube.com/wp-content/themes/pnc5/images/header_twitter.jpg" /></a>
+            <ul>
+              <li>Quack</li>
+            </ul>
+          </li>
+        </ul>
+        <div class="ceiling-footer"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="wrap" class="clearfix">
+    <div id="header">
+      <div class="logo"><a href="http://parkandcube.com">
+      <img src="https://parkandcube.com/wp-content/themes/pnc5/images/logo.png" /></a>
+    </div>
+  </div>
+<div class="seg"></div>
+
+<div id="blog">
+
+    <div class="post">
+      <div class="slash2"></div>
+      <div id="postcat"><span class="postcat-category"><a href="https://parkandcube.com/category/a-closer-look/" rel="category tag">A Closer Look</a> &#183; <a href="https://parkandcube.com/category/travel/" rel="category tag">Travel</a></span></div>
+        <div id="posttitle"><a id="post-28498" href="https://parkandcube.com/bentley-meindl-factory/" rel="bookmark" title=" Few of Meindl favourite things: Bentley Collection">Few of Meindl favourite things: Bentley Collection</a></div>
+        <div class="postdate">3rd November 2018</div>
+
+        <div class="entry">
+        <p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_001.jpg" alt="ParknCube_Bentley-Meindl_001" width="500" height="667" class="alignnone size-full wp-image-28499" style="margin-left:200px" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_001.jpg 900w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_001-445x593.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_001-768x1024.jpg 768w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_001-495x660.jpg 495w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_001-213x283.jpg 213w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<div style="margin: 50px auto 70px; position: relative; z-index: 100; text-align: center; width: 300px; font-family: 'Didot W01 Roman'; font-size: 13px; line-height: 1.2em; border-top: 1px solid #000; padding-top: 20px;">photography SHINI PARK &#038; ABI OMOLE. research ZANA WILBERFORCE. by invitation of <a href="https://parkncu.be/2CY9hDK" title="Bentley Collection" rel="noopener" target="_blank">BENTLEY COLLECTION</a></div>
+<p class="centralize" style="margin-bottom:20px;" >According to a veritable source (the stars apparently, mostly evangelised by my wide-eyed, annoyingly brainy copywriter Zana), my Libra moons means that I’m fiercely just and favour balance. If immense speed and slowing down could happen at the same time, I would compare it to driving my wheel of choice (second to cheese wheels) <a href="https://parkncu.be/2zpvzen" title="Bentley Bentayga" rel="noopener" target="_blank">Bentley Bentayga</a> in the Alps of Bavaria. You’re zooming ahead at 100 km/h in just 4 seconds while simultaneously transporting your mind out of the hustle and bustle of the city. The added tinge of serenity comes from the innate luxury of our immediate surroundings: Think camel leather, intricate woodwork and a hand-stitched steering wheel. As you climb onto the leather seat, a warm and comforting sensation wraps your entire being like an all-encompassing hug &#8211; much like toting a <a href="https://parkncu.be/2CY9hDK" title="Bentley Collection" rel="noopener" target="_blank">Bentley Collection</a> leather jacket. </p>
+<div style="margin: 850px 0 0 550px; font-family: 'Didot W01 Roman'; color: #000; font-size: 30px; position:absolute; width: 300px; text-align: right; line-height: 1.1em; z-index: 3;">&#8230;up and up toward the Alps, a backdrop of rocky grey mountains set before our eyes like an intricate oil painting in an alfresco gallery.</div>
+<div class="clear" style="height:55px;"></div>
+<h5 style="margin:675px 0 0 450px;">Sweater &#038; Skirt &#8211; Louis Vuitton. Shoes &#8211; Zara.</h5>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_002.jpg" alt="ParknCube_Bentley-Meindl_002" width="450" height="675" class="alignleft size-full wp-image-28500" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_002.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_002-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_002-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_003.jpg" alt="ParknCube_Bentley-Meindl_003" width="450" height="675" class="alignright size-full wp-image-28501" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_003.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_003-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_003-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_004.jpg" alt="ParknCube_Bentley-Meindl_004" width="450" height="675" class="alignleft size-full wp-image-28502" style="margin-top: 4px;" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_004.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_004-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_004-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /></p>
+<h1 style="margin-top:50px"><a href="https://parkncu.be/2CY9hDK" title="Bentley Collection" rel="noopener" target="_blank">Bentley Collection</a>: Meindl Factory—Kirchanschöring, Bavaria, Gemany</h1>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_005.jpg" alt="ParknCube_Bentley-Meindl_005" width="900" height="675" class="alignnone size-full wp-image-28503" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_005.jpg 900w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_005-445x334.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_005-768x576.jpg 768w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_005-880x660.jpg 880w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<div style="margin: 850px 0 0 50px; font-family: 'Didot W01 Roman'; color: #000; font-size: 30px; position:absolute; width: 300px; text-align: right; line-height: 1.1em; z-index: 3;">
+“The jackets are inspired by the design language of our cars, celebrating Bentley’s rich heritage, from racetrack to road.”<br />
+<span style="font-size:15px; color:#666666;">Karin, Director of Brand &#038; Lifestyle at<br />
+Bentley Motors</span>
+</div>
+<div class="clear" style="height:55px;"></div>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_006.jpg" alt="ParknCube_Bentley-Meindl_006" width="450" height="600" class="alignleft size-full wp-image-28504" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_006.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_006-445x593.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_006-213x283.jpg 213w" sizes="(max-width: 450px) 100vw, 450px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_007.jpg" alt="ParknCube_Bentley-Meindl_007" width="450" height="600" class="alignright size-full wp-image-28505" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_007.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_007-445x593.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_007-213x283.jpg 213w" sizes="(max-width: 450px) 100vw, 450px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_008.jpg" alt="ParknCube_Bentley-Meindl_008" width="450" height="675" class="alignright size-full wp-image-28506" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_008.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_008-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_008-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /></p>
+<div class="clear" style="height:10px;"></div>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_009.jpg" alt="ParknCube_Bentley-Meindl_009" width="450" height="600" class="alignleft size-full wp-image-28507" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_009.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_009-445x593.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_009-213x283.jpg 213w" sizes="(max-width: 450px) 100vw, 450px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_010.jpg" alt="ParknCube_Bentley-Meindl_010" width="450" height="600" class="alignright size-full wp-image-28508" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_010.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_010-445x593.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_010-213x283.jpg 213w" sizes="(max-width: 450px) 100vw, 450px" /></p>
+<p class="centralize">The mixing, blending, balancing, mélanging continues as we’re exposed to a <a href="https://parkncu.be/2CY9hDK" title="Bentley Collection" rel="noopener" target="_blank">Bentley Collection</a> jacket being nursed into form at Meindl that very much resembles the sturdy and stoic vehicle… in an alternate form. The factory is nestled right in the seam of the German/Austrian border, a stone’s throw from Salzburg and a stride from snow-capped Alps. The brand itself is famed for hand-crafted Lederhosen and hiking boots i.e the Bavariand uniform. The 120-step process behind the production of the new “Iconic Classic” leather jacket enhances Meindl’s 300-year commitment to craftsmanship. Created from supremely soft lamb, the jackets are a reincarnation of the <a href="https://parkncu.be/2zpvzen" title="Bentley" rel="noopener" target="_blank">Bentley Motors</a> visually, replicating the shape of a <a href="https://parkncu.be/2zpvzen" title="Bentayga" rel="noopener" target="_blank">Bentayga </a>dashboard and echoing elements of the steering wheel. They’re also a replica of the Bentley personality: polished, noble and adventurous.
+</p>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011.jpg" alt="ParknCube_Bentley-Meindl_011" width="900" height="600" class="alignnone size-full wp-image-28509" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011.jpg 900w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011-290x194.jpg 290w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011-445x297.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011-768x512.jpg 768w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011-313x209.jpg 313w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_011-465x310.jpg 465w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_012.jpg" alt="ParknCube_Bentley-Meindl_012" width="350" height="525" class="alignleft size-full wp-image-28510" style="margin:40px 0 86px 40px;" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_012.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_012-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_012-440x660.jpg 440w" sizes="(max-width: 350px) 100vw, 350px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_013.jpg" alt="ParknCube_Bentley-Meindl_013" width="450" height="675" class="alignright size-full wp-image-28511" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_013.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_013-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_013-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /></p>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_014.jpg" alt="ParknCube_Bentley-Meindl_014" width="450" height="675" class="alignleft size-full wp-image-28512" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_014.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_014-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_014-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_015.jpg" alt="ParknCube_Bentley-Meindl_015" width="450" height="675" class="alignright size-full wp-image-28513" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_015.jpg 450w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_015-445x668.jpg 445w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_015-440x660.jpg 440w" sizes="(max-width: 450px) 100vw, 450px" /></p>
+<div class="clear" style="height:10px;"></div>
+<p class="centralize">We clock snow-capped peaks in the side mirror and graze virescent rolling tussocks towards a whiter horizon. Where to stay?<a href="https://parkncu.be/2D0D4vR" title="Hotel Sacher" rel="noopener" target="_blank"> Hotel Sacher</a>. The establishment home to many an Emperor (Franz Joseph), Kings and Queen, the only royalty I’m anticipating tonight is a slice of the original Sachertorte. There’s an opulence that isn’t pretentious, the rooms are luxurious and cosy at once. After all as Bentley teaches us, balance is key. </p>
+<p><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_016.jpg" alt="ParknCube_Bentley-Meindl_016" width="300" height="400" class="alignleft size-full wp-image-28514" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_016.jpg 300w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_016-213x283.jpg 213w" sizes="(max-width: 300px) 100vw, 300px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_017.jpg" alt="ParknCube_Bentley-Meindl_017" width="300" height="400" class="alignleft size-full wp-image-28515" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_017.jpg 300w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_017-213x283.jpg 213w" sizes="(max-width: 300px) 100vw, 300px" /><img src="http:parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_018.jpg" alt="ParknCube_Bentley-Meindl_018" width="300" height="400" class="alignright size-full wp-image-28516" srcset="https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_018.jpg 296w, https://parkandcube.com/wp-content/uploads/2018/11/ParknCube_Bentley-Meindl_018-213x283.jpg 213w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+        </div>
+
+
+
+<div class="single-prev-wrap clearfix">
+
+                
+                                        <a href="https://parkandcube.com/stregismaldives/" rel="prev">
+                    <div class='single-prev-title left'>
+                    <div style='float:left;'><img width="62" height="62" src="https://parkandcube.com/wp-content/uploads/2018/10/ParknCube_StRegisMaldives_014ss-62x62.jpg" class="attachment-62x62 size-62x62 wp-post-image" alt="" /></div>
+                    <div style='float:left; margin: 10px 0 10px 10px'>Rebirth: St. Regis</div>
+                    <div class='single-prev'></br>&laquo; Previous post</div></div></a>
+
+                                    
+ </div>
+
+<!--
+
+<div class="single-prev-title left"><a href="https://parkandcube.com/stregismaldives/">Rebirth: St. Regis</a>
+                    <div class="single-prev">&laquo; Previous post</div></div>
+
+
+-->
+
+
+    </div>
+
+</div>
+
+
+<div class="seg"></div>
+
+
+<div class="clearfix">
+    <div>
+      
+<div id="comments">
+	<div class="slash" style="border-top: none;"></div>
+		        
+        <form action="http://parkandcube.com/wp-comments-post.php" method="post" id="commentform">
+        
+            <h2 class="comments">Write a Comment</h2>
+    <div style="margin-top: -40px;">
+    	  
+      
+	</div>
+	<div class="comment-form">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/bentley-meindl-factory/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://parkandcube.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><label for="comment">Comment </label><textarea id="comment" name="comment" cols="45" rows="4" aria-required="true"></textarea><label for="author">Name (required)</label> <input id="author" name="author" type="text" class="text-input" value=""  size="30" />
+<label for="email">Email (required)</label> <input id="email" name="email" type="text" class="text-input"  value="" size="30" />
+<label for="url">Blog or Website </label>
+<input id="url" name="url" type="text" class="text-input" value="" size="30" />
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='28498' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="09618435b8" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="91"/></p></form>	</div><!-- #respond -->
+		</div><!--/.comment-form -->
+    
+    
+    
+
+<div class="comment-slash"></div>
+
+
+
+<!--
+<div class="single-prev-wrap clearfix">
+               
+
+<div class="single-prev-title left"><a href="https://parkandcube.com/stregismaldives/">Rebirth: St. Regis</a>
+					<div class="single-prev">&laquo; Previous post</div></div>
+ 
+   
+</div>
+
+
+<div class="comment-slash"></div>
+-->
+
+
+
+
+
+
+
+
+<a name="respond"></a>
+<h2 class="comments"><a href="https://parkandcube.com/bentley-meindl-factory/#comments">5 Comments</a></h2>
+
+<div class="comments">
+		<ol class="commentlist">
+	
+			<li class="alt" id="comment-3444646">
+            <div class="author"><a href='http://anoddgirl.blogspot.com.au' rel='external nofollow ugc' class='url'>nat</a></div>
+						<small class="commentmetadata">November 4, 2018 at 8:32 am</small>
+			<p>These images are so beautiful</p>
+<p>I didn&#8217;t even know Bentley had a fashion collection</p>
+<p>xx</p>
+<p><a href="http://anoddgirl.blogspot.com.au" rel="nofollow ugc">http://anoddgirl.blogspot.com.au</a></p>
+            
+ <div class="clear"></div>       
+		</li>
+
+	
+	
+			<li id="comment-3444693">
+            <div class="author"><a href='http://evdaily.blogspot.com' rel='external nofollow ugc' class='url'>Ewa Macherowska</a></div>
+						<small class="commentmetadata">November 4, 2018 at 1:56 pm</small>
+			<p>Such a beautiful photos! x</p>
+<p><a href="http://www.evdaily.blogspot.com" rel="nofollow ugc">http://www.evdaily.blogspot.com</a></p>
+            
+ <div class="clear"></div>       
+		</li>
+
+	
+	
+			<li class="alt" id="comment-3444923">
+            <div class="author"><a href='http://newretrospect.wordpress.com' rel='external nofollow ugc' class='url'>Naz</a></div>
+						<small class="commentmetadata">November 5, 2018 at 5:21 pm</small>
+			<p>absolutely gorgeous photos, really serene and classy looking!</p>
+<p><a href="http://newretrospect.wordpress.com" rel="nofollow">In Retrospect</a></p>
+            
+ <div class="clear"></div>       
+		</li>
+
+	
+	
+			<li id="comment-3474105">
+            <div class="author"><a href='http://Www.cartuchoinkjet.com.br/' rel='external nofollow ugc' class='url'>cartucho 45 Tij</a></div>
+						<small class="commentmetadata">May 11, 2019 at 6:41 am</small>
+			<p>Obrigado por  compartilhar tanta  informação útil   com as pessoas  de forma tão  interessante<br />
+e  gratuíta  . Contine sempre assim e  obrigado <a href="http://Www.cartuchoinkjet.com.br/" rel="nofollow ugc">http://Www.cartuchoinkjet.com.br/</a></p>
+            
+ <div class="clear"></div>       
+		</li>
+
+	
+	
+			<li class="alt" id="comment-3474705">
+            <div class="author"><a href='https://ciceroleather.com' rel='external nofollow ugc' class='url'>Cicero Leather</a></div>
+						<small class="commentmetadata">May 15, 2019 at 4:23 pm</small>
+			<p>These images are so beautiful<br />
+xx, Cicero<br />
+<a href="https://ciceroleather.com/" rel="nofollow ugc">https://ciceroleather.com/</a></p>
+            
+ <div class="clear"></div>       
+		</li>
+
+	
+	
+	</ol>
+
+
+ 
+
+
+</div>
+    </div>
+
+        
+
+        </div>
+
+    </div>
+
+
+
+    <div id="footer">
+    <div class="footer-nav">
+      <ul>
+        <li><a href="http://parkandcube.com"><img src="https://parkandcube.com/wp-content/themes/pnc5/images/home.png" /></a></li>
+        <li><a href="http://www.parkandcube.com/about/">About</a></li>
+        <li><a href="http://www.parkandcube.com/about/" style="padding-right: 50px">Contact</a></li>
+      </ul>
+    </div>
+  <p>All rights reserved &copy; Park &amp; Cube 2020 &#183; Design &amp; Development by <a href="http://www.shinparkowska.com" target="_blank">Shini Park</a></p>
+    </div>
+
+
+<!-- Highlight Search Terms 1.3.9 ( RavanH - http://status301.net/wordpress-plugins/highlight-search-terms/ ) -->
+<script type="text/javascript">
+var hlst_query = new Array();
+var hlst_areas = new Array("article","#groups-dir-list","#members-dir-list","li.bbp-body","div.hentry","div.post","#content","#main","div.content","#middle","#container","div.container","div.page","#wrapper","body");
+</script>
+
+
+
+
+
+<script type='text/javascript' src='https://parkandcube.com/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://parkandcube.com/wp-content/plugins/highlight-search-terms/hlst-extend.js?ver=1.3.9'></script>
+<script type='text/javascript' src='https://parkandcube.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script async="async" type='text/javascript' src='https://parkandcube.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.4'></script>
+
+<script type="text/javascript" >
+$(function(){
+  var entry = $('#blog .entry');
+  if(entry.length > 0){
+  $('> p, > h1, > h2, > h3, > h4, > h5, > h6', entry).each(function(){
+
+    if($('.size-large, .size-full', this).length !== 0){
+
+      $(this).addClass('large-image');
+
+    } else if($('.size-medium', this).length > 1){
+
+      $(this).addClass('small-images');
+
+    } else {
+
+      $(this).addClass('text');
+
+    }
+
+  });
+
+  }
+
+
+
+});
+
+</script>
+
+</body>
+
+</html>
